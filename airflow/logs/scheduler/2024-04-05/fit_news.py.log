@@ -1,0 +1,55 @@
+[2024-04-05T14:57:18.668+0000] {processor.py:161} INFO - Started process (PID=138) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T14:57:18.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T14:57:19.055+0000] {logging_mixin.py:188} INFO - [2024-04-05T14:57:19.052+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T14:57:49.626+0000] {logging_mixin.py:188} INFO - [2024-04-05T14:57:49.624+0000] {timeout.py:68} ERROR - Process timed out, PID: 138
+[2024-04-05T15:04:45.231+0000] {processor.py:161} INFO - Started process (PID=275) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:04:45.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:04:45.975+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:04:45.940+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:05:16.865+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:05:16.863+0000] {timeout.py:68} ERROR - Process timed out, PID: 275
+[2024-04-05T15:07:27.741+0000] {processor.py:161} INFO - Started process (PID=330) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:07:27.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:07:27.987+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:07:27.976+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:07:58.580+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:07:58.577+0000] {timeout.py:68} ERROR - Process timed out, PID: 330
+[2024-04-05T15:11:28.495+0000] {processor.py:161} INFO - Started process (PID=434) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:11:28.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:11:29.099+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:11:28.950+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:12:00.168+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:11:59.987+0000] {timeout.py:68} ERROR - Process timed out, PID: 434
+[2024-04-05T15:13:14.624+0000] {processor.py:161} INFO - Started process (PID=480) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:13:14.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:13:14.820+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:13:14.817+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:15:53.405+0000] {processor.py:161} INFO - Started process (PID=561) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:15:53.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:15:53.667+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:15:53.651+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:16:24.395+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:16:24.389+0000] {timeout.py:68} ERROR - Process timed out, PID: 561
+[2024-04-05T15:17:56.519+0000] {processor.py:161} INFO - Started process (PID=615) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:17:56.590+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:17:56.735+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:17:56.681+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:18:27.623+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:18:27.506+0000] {timeout.py:68} ERROR - Process timed out, PID: 615
+[2024-04-05T15:21:43.761+0000] {processor.py:161} INFO - Started process (PID=707) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:21:44.213+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:21:44.419+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:21:44.389+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:22:17.652+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:22:17.649+0000] {timeout.py:68} ERROR - Process timed out, PID: 707
+[2024-04-05T15:23:34.579+0000] {processor.py:161} INFO - Started process (PID=754) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:23:34.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:23:34.685+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:23:34.676+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:26:00.703+0000] {processor.py:161} INFO - Started process (PID=835) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:26:00.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:26:00.791+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:26:00.788+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:26:31.254+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:26:31.250+0000] {timeout.py:68} ERROR - Process timed out, PID: 835
+[2024-04-05T15:26:50.986+0000] {processor.py:161} INFO - Started process (PID=871) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:26:51.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:26:51.074+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:26:51.071+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:28:40.158+0000] {processor.py:161} INFO - Started process (PID=933) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:28:40.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:28:40.289+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:28:40.286+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:29:11.408+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:29:11.402+0000] {timeout.py:68} ERROR - Process timed out, PID: 933
+[2024-04-05T15:30:34.576+0000] {processor.py:161} INFO - Started process (PID=989) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:30:34.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:30:34.841+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:30:34.793+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:32:04.546+0000] {processor.py:161} INFO - Started process (PID=1050) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:32:04.651+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:32:04.730+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:32:04.660+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:33:05.734+0000] {processor.py:161} INFO - Started process (PID=1096) to work on /opt/airflow/dags/fit_news.py
+[2024-04-05T15:33:05.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/fit_news.py for tasks to queue
+[2024-04-05T15:33:05.815+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:33:05.809+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/fit_news.py
+[2024-04-05T15:33:37.256+0000] {logging_mixin.py:188} INFO - [2024-04-05T15:33:37.101+0000] {timeout.py:68} ERROR - Process timed out, PID: 1096
